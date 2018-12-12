@@ -13,6 +13,6 @@ class MemoData {
     var memoIdx : Int?
     var title : String?
     var contents : String?
-    var contents : String?
-    var regdate : Data?
+    var image : UIImage?
+    var regdate : Date?
 }
